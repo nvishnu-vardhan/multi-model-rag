@@ -1,0 +1,5 @@
+{
+  "name": "Multi Model RAG",
+  "description": "A high-performance Multi-Model RAG application supporting Google Gemini and OpenAI. Features document ingestion, visual analysis, and citation-backed QA.",
+  "requestFramePermissions": []
+}
