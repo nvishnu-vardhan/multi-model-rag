@@ -98,7 +98,7 @@ export const generateMultiModalResponse = async (
     // Add file context as system message
     if (contextText) {
       messages.push({
-        role: "system",
+        role: "user",
         content: `Document Context:\n${contextText}`
       });
     }
