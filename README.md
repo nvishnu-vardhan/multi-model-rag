@@ -1,5 +1,5 @@
 
-# Multi Model RAG (Nexus)
+# Multi Model RAG 
 
 A high-performance, Multi-Modal Retrieval-Augmented Generation (RAG) system designed for complex document intelligence. This application ingests text, tables, and images (OCR/Vision) to provide citation-backed answers using Google Gemini 2.5 and OpenAI GPT-4o.
 
